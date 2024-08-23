@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e99c45c4.css",
-    "main.js": "./static/js/main.d6fbb30c.js",
+    "main.css": "./static/css/main.113854ce.css",
+    "main.js": "./static/js/main.a4782102.js",
     "static/media/LogoIcon.svg": "./static/media/LogoIcon.0394a7d1759132a11f1745f377dac34b.svg",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
@@ -14,11 +14,11 @@
     "static/media/ChevronIcon.svg": "./static/media/ChevronIcon.2bc868200b480baccc95376579cf7448.svg",
     "static/media/MinusIcon.svg": "./static/media/MinusIcon.60fd3f6514ad8fda3180c93a246869cd.svg",
     "index.html": "./index.html",
-    "main.e99c45c4.css.map": "./static/css/main.e99c45c4.css.map",
-    "main.d6fbb30c.js.map": "./static/js/main.d6fbb30c.js.map"
+    "main.113854ce.css.map": "./static/css/main.113854ce.css.map",
+    "main.a4782102.js.map": "./static/js/main.a4782102.js.map"
   },
   "entrypoints": [
-    "static/css/main.e99c45c4.css",
-    "static/js/main.d6fbb30c.js"
+    "static/css/main.113854ce.css",
+    "static/js/main.a4782102.js"
   ]
 }

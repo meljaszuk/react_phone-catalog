@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.7a0b2743.css",
-    "main.js": "./static/js/main.8498f821.js",
+    "main.css": "./static/css/main.194d700e.css",
+    "main.js": "./static/js/main.9e5948c4.js",
     "static/media/LogoIcon.svg": "./static/media/LogoIcon.0394a7d1759132a11f1745f377dac34b.svg",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
@@ -9,16 +9,17 @@
     "static/media/CartIcon.svg": "./static/media/CartIcon.6b6ebef2b16ee05b847f7de31b994897.svg",
     "static/media/fav.svg": "./static/media/fav.aec7ca3156c0efbb301b0029686f7b54.svg",
     "static/media/HomeIcon.svg": "./static/media/HomeIcon.cc8b8b662fc4912ff704f1e0512be4eb.svg",
+    "static/media/fav-red.svg": "./static/media/fav-red.a50cb178e4751a64f2150e19764fd508.svg",
     "static/media/CrossIcon.svg": "./static/media/CrossIcon.6e7f15f7413e962f75496f60bb32404f.svg",
     "static/media/PlusIcon.svg": "./static/media/PlusIcon.a544912e75568921a6262f85e9bc05da.svg",
     "static/media/ChevronIcon.svg": "./static/media/ChevronIcon.2bc868200b480baccc95376579cf7448.svg",
     "static/media/MinusIcon.svg": "./static/media/MinusIcon.60fd3f6514ad8fda3180c93a246869cd.svg",
     "index.html": "./index.html",
-    "main.7a0b2743.css.map": "./static/css/main.7a0b2743.css.map",
-    "main.8498f821.js.map": "./static/js/main.8498f821.js.map"
+    "main.194d700e.css.map": "./static/css/main.194d700e.css.map",
+    "main.9e5948c4.js.map": "./static/js/main.9e5948c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a0b2743.css",
-    "static/js/main.8498f821.js"
+    "static/css/main.194d700e.css",
+    "static/js/main.9e5948c4.js"
   ]
 }
